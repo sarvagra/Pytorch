@@ -59,7 +59,7 @@ It is designed for beginners who want a hands-on introduction to **machine learn
 ---
 
 ## ✅ How to Use
-1. Watch the video() alongside this README.  
+1. Watch the video alongside this README.  
 2. Follow the chapters step by step.  
 3. Practice coding each section in your own notebook.  
 4. Use the “Not Covered” section as a roadmap for further study.
